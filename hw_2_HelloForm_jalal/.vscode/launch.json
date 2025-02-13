@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-HelloFormApplication<helloForm>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "fi.haagahelia.course.HelloFormApplication",
+      "projectName": "helloForm",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
